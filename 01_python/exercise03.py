@@ -1,0 +1,10 @@
+number_1 = int(input("Enter first number: "))
+number_2 = int(input("Enter second number: "))
+number_3 = int(input("Enter third number: "))
+new_list = []
+new_tuple = (number_1, number_2, number_3)
+new_list.append(number_1)
+new_list.append(number_2)
+new_list.append(number_3)
+print(new_list)
+print(new_tuple)
