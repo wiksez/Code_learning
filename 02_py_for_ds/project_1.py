@@ -1,0 +1,10 @@
+import pandas as pd
+laptops = pd.read_csv('laptops.csv')
+print(laptops.head())
+print(laptops.dtypes)
+print(laptops['age'].describe())
+print(laptops['event_year'].describe())
+print(laptops['event_year'].value_counts())
+print(laptops['problem'].value_counts())
+print(laptops['problem'].value_counts(normalize=True))
+print(laptops['repair_status'].value_counts())

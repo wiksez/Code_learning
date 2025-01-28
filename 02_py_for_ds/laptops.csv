@@ -1,0 +1,51 @@
+problem,brand,repair_status,event_year,age
+Fan noise,Acer,Irreparable,2021,5
+Battery drains quickly,Dell,Irreparable,2024,8
+Battery drains quickly,Acer,Repaired,2020,10
+Battery drains quickly,Acer,Irreparable,2018,8
+Won't turn on,Dell,In progress,2023,5
+Won't turn on,Acer,Irreparable,2020,5
+Keyboard not working,HP,Repaired,2021,8
+Fan noise,Acer,In progress,2019,7
+Keyboard not working,Apple,In progress,2023,10
+Screen issues,Asus,In progress,2020,8
+Screen issues,Asus,Irreparable,2023,2
+Screen issues,Asus,Repaired,2023,2
+Keyboard not working,HP,In progress,2019,7
+Battery drains quickly,Asus,In progress,2019,10
+Fan noise,Acer,Irreparable,2017,5
+Screen issues,Acer,In progress,2019,6
+Fan noise,Dell,Irreparable,2016,3
+Fan noise,Asus,Irreparable,2018,7
+Battery drains quickly,Lenovo,Irreparable,2022,9
+Screen issues,Acer,Irreparable,2022,6
+Fan noise,Lenovo,Repaired,2020,2
+Battery drains quickly,Dell,In progress,2015,7
+Keyboard not working,Acer,Repaired,2019,9
+Keyboard not working,Apple,Repaired,2022,4
+Battery drains quickly,Acer,Repaired,2024,8
+Keyboard not working,HP,In progress,2023,2
+Screen issues,Acer,Irreparable,2023,9
+Keyboard not working,Lenovo,Irreparable,2023,2
+Screen issues,Dell,Repaired,2019,9
+Battery drains quickly,Dell,In progress,2023,4
+Battery drains quickly,HP,Irreparable,2015,4
+Battery drains quickly,Lenovo,In progress,2015,1
+Screen issues,Dell,Irreparable,2022,3
+Battery drains quickly,HP,Repaired,2015,5
+Keyboard not working,Lenovo,Repaired,2016,4
+Keyboard not working,Dell,Irreparable,2024,3
+Fan noise,Dell,Irreparable,2020,4
+Fan noise,Dell,Repaired,2024,9
+Screen issues,Dell,Irreparable,2018,1
+Battery drains quickly,Acer,Irreparable,2019,5
+Screen issues,Apple,In progress,2023,7
+Fan noise,Dell,In progress,2017,2
+Fan noise,Asus,In progress,2021,8
+Fan noise,Dell,In progress,2016,10
+Screen issues,Lenovo,Repaired,2018,5
+Fan noise,Asus,In progress,2019,8
+Screen issues,Dell,Irreparable,2020,4
+Keyboard not working,Apple,In progress,2024,9
+Battery drains quickly,Dell,In progress,2021,2
+Won't turn on,Lenovo,In progress,2020,6
